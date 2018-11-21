@@ -1,0 +1,19 @@
+print("MUHAMMAD SOHAIB - 18B-054-CS - section A") 
+print("\t\t\t EXERCISE: 3.19")
+a, b, c = 3, 4, 5
+if a < b:
+    print("OK(a)")
+else:
+    print("NOT OK(a)")
+if c < b:
+    print("OK(b)")
+else:
+    print("NOT OK(b)")
+if (a+b) == c:
+    print("OK(c)")
+else:
+    print("NOT OK(c)")
+if ((a**2 + b**2) == (c**2)):
+    print("OK(d)")
+else:
+    print("NOT OK(d)")
