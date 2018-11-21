@@ -1,0 +1,5 @@
+print("MUHAMMAD SOHAIB - 18B-054-CS - section A") 
+print("\t\t\t EXERCISES: 3.20")
+lst = ['January','February','March']
+for x in lst:
+    print(x[0:3])
